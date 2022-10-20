@@ -1,0 +1,91 @@
+[
+  {
+    "id": "7bdc2580-f6eb-45b6-96fb-11bbce3971f9",
+    "title": "The Grass is Always Greener",
+    "author": "Jeffrey Archer",
+    "rentals": [
+      "9d10ce6f-1ee7-4e81-9235-132601fb7650",
+      "09dbbe74-b683-4606-be86-9d28b1d280ca",
+      "1130d447-7384-4708-ba4b-0b06453dc814",
+      "0401b569-7096-494d-a800-e1ad5fbde3cc",
+      "951ebcc2-2bad-4403-9f0b-3fb0b1372205",
+      "16380aa4-9f1a-41cc-a4d1-8281c5106a93"
+    ]
+  },
+  {
+    "id": "171f7b2d-8c88-4e1e-ab56-f836a0f8d69b",
+    "title": "Murder!",
+    "author": "Arnold Bennett",
+    "rentals": [
+      "2259cbc8-12fa-4590-a3bd-12fa2fc4a976",
+      "6477f93c-5ef1-4b50-bf65-d21e2cf8de1b",
+      "8f3ce02c-17e9-4242-8dc7-f884b59cdfde",
+      "b816d615-cb94-4c2d-b9c8-c377b38f425e",
+      "46760836-7ed8-4542-a37d-5522710659d1",
+      "d2f1ad8e-8585-490e-978a-aebafef51594"
+    ]
+  },
+  {
+    "id": "251bbfea-0e25-43ea-b0b1-d5251f30f8c2",
+    "title": "A Boy at Seven",
+    "author": "John Bidwell",
+    "rentals": [
+      "a1dd8c60-09df-452a-9d97-6e308e053664",
+      "e8d4fbd7-b83d-44e7-b3f5-18fd3efa06ae",
+      "f309fb8f-a7df-4a55-b3ec-e2ee05a1f106",
+      "8bf7e102-ff18-4167-8b90-234332ff800b",
+      "9b12cbdf-c1ad-4158-80b2-0aeeb7c5a62a",
+      "1b638847-3a8e-46b5-9684-765abcb90ea5"
+    ]
+  },
+  {
+    "id": "05f80fb4-dd19-4f29-b406-f0c6653b29fa",
+    "title": "The Open Boat",
+    "author": "Stephen Crane",
+    "rentals": [
+      "18f0ba6b-f393-4567-8243-53131508c049",
+      "65e79291-52d5-4fed-8d42-db90321d3bea",
+      "cca3eb23-b739-4840-8f29-aa332932cedc",
+      "f91c74e3-471a-420a-9748-b40188b532fb",
+      "0bdf0196-1e39-4a07-bd7d-86a199ab4d84",
+      "0fa38115-bb26-4f65-b4f7-7c615d3cda1f"
+    ]
+  },
+  {
+    "id": "7dbd954e-3b40-45be-bdd5-62456dbb640b",
+    "title": "The Higgler",
+    "author": "A. E. Coppard",
+    "rentals": [
+      "4fb80098-351a-437c-8003-7be440d9e6c4",
+      "d292abbc-425a-4c39-a021-9577e8a56958",
+      "cdff2c1d-a3d3-4c56-925f-d65facaf48cb",
+      "e955be73-34f4-4bef-81e8-1cbbc3ce0cb1",
+      "63a54ed5-3f10-4e7e-a413-45c7f14b3337",
+      "f6c4ee0a-7198-4a01-828d-c7f6da553d3a"
+    ]
+  },
+  {
+    "id": "5cf7085d-b7b8-4845-9a4c-796181f2a52a",
+    "title": "Lord Of The Rings",
+    "author": "J.R.R. Tolkien",
+    "rentals": [
+
+    ]
+  },
+  {
+    "id": "1b70082c-5663-4b22-8343-069d9d077aed",
+    "title": "jdoasd",
+    "author": "jdasd",
+    "rentals": [
+
+    ]
+  },
+  {
+    "id": "55af5284-8a91-4bd9-978a-654c560f6c99",
+    "title": "AS",
+    "author": "SD",
+    "rentals": [
+
+    ]
+  }
+]
